@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "minVersion": "1.0.0",
+    "latestVersion": "1.1.0",
+    "iosStoreUrl": "",
+    "androidStoreUrl": "https://play.google.com/store/apps/details?id=kh.gov.rean.dev"
+  },
+  "uat": {
+    "minVersion": "1.0.0",
+    "latestVersion": "1.1.0",
+    "iosStoreUrl": "",
+    "androidStoreUrl": "https://play.google.com/store/apps/details?id=kh.gov.rean.uat"
+  },
+  "prod": {
+    "minVersion": "1.0.0",
+    "latestVersion": "1.1.0",
+    "iosStoreUrl": "https://apps.apple.com/kh/app/ums-rean/id6742525939",
+    "androidStoreUrl": "https://play.google.com/store/apps/details?id=kh.gov.rean"
+  }
+}
