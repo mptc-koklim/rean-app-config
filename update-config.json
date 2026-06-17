@@ -6,7 +6,7 @@
     "androidStoreUrl": "https://play.google.com/store/apps/details?id=kh.gov.rean.dev"
   },
   "uat": {
-    "minVersion": "1.0.0",
+    "minVersion": "1.1.0",
     "latestVersion": "1.1.0",
     "iosStoreUrl": "",
     "androidStoreUrl": "https://play.google.com/store/apps/details?id=kh.gov.rean.uat"
